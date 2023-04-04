@@ -20,7 +20,6 @@ edges = [
     ('e', 'f', 8)
 ]
 
-
 mst_k = kruskal.kruskal(nodes, edges)
 print(mst_k)
 
