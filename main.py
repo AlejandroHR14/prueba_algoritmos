@@ -1,6 +1,5 @@
 from algorithms import Algorithms
 
-
 kruskal = Algorithms()
 prim = Algorithms()
 
