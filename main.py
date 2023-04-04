@@ -4,9 +4,6 @@ from algorithms import Algorithms
 kruskal = Algorithms()
 prim = Algorithms()
 
-#[] list
-#() tuple
-#{} dict
 
 nodes = ['a','b','c','d','e','f','g']
 edges = [
